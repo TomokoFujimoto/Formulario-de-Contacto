@@ -70,3 +70,10 @@ body{
 .info_title{
     margin-bottom: 60px;
 }
+
+.info_title span{
+    font-size: 100px;
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+}
