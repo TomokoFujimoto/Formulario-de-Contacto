@@ -60,3 +60,13 @@ body{
     background-position: center center;
 
 }
+.info_title,
+.info_items{
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+
+.info_title{
+    margin-bottom: 60px;
+}
